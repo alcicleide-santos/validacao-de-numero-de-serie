@@ -1,0 +1,1 @@
+Iplemetação de uma expressão regular em linguagem java para validação de um número de série, a expressão deve validar um número de série alfanumérico com blocos de 4 caracteres alfanuméricos separados por hífen(-).Exemplo válido:123A-B123-BB12-12AZ, as letras devem ser em maiúsculo.
